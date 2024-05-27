@@ -1,5 +1,8 @@
 # Hard-Disk-Sentinel
 
+![2024-05-27_13-51](https://github.com/sofijacom/Hard-Disk-Sentinel/assets/107557749/9e1fc425-7c91-442e-a113-5dcefef6215a)
+
+
 Usage of Hard Disk Sentinel Linux version
 After downloading the file below, please follow these steps to use it:
 double click to open and decompress it to any folder
