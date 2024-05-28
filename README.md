@@ -2,6 +2,8 @@
 
 ![2024-05-27_13-51](https://github.com/sofijacom/Hard-Disk-Sentinel/assets/107557749/9e1fc425-7c91-442e-a113-5dcefef6215a)
 
+![2024-05-28_17-59](https://github.com/sofijacom/Hard-Disk-Sentinel/assets/107557749/78e7e739-18c1-4d82-b507-58917e549693)
+
 
 Usage of Hard Disk Sentinel Linux version
 After downloading the file below, please follow these steps to use it:
