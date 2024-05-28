@@ -2,7 +2,7 @@
 
 ![2024-05-27_13-51](https://github.com/sofijacom/Hard-Disk-Sentinel/assets/107557749/9e1fc425-7c91-442e-a113-5dcefef6215a)
 
-## Hard Disk Sentinel 64-bit
+## Hard Disk Sentinel Gui 64-bit
 ![2024-05-28_17-59](https://github.com/sofijacom/Hard-Disk-Sentinel/assets/107557749/78e7e739-18c1-4d82-b507-58917e549693)
 
 
